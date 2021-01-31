@@ -1,10 +1,11 @@
 Rencana Belajar WPSE
 
-- Laravel
-  #ben pinter jancok
-  #ben dihargai jancok
-    #iyolah
-    #jancok 
+- Javascript
+  #ES6
+  #Framewrok Javascript
+    ^ Vue
+    ^ React
+    ^ Angular
 - Structur Data Dasar
 - PHP Frameworks
   #Laravel
