@@ -3,9 +3,11 @@ Rencana Belajar WPSE
 - Laravel
   #ben pinter jancok
   #ben dihargai jancok
-    ^ asu
-    ^ kontol
+    #iyolah
+    #jancok 
+- Structur Data Dasar
 - PHP Frameworks
-  ^ Laravel
+  #Laravel
 - Codeigneter
 - Rest API
+- Python
